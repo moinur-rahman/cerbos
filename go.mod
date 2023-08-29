@@ -12,7 +12,7 @@ require (
 	github.com/aws/aws-sdk-go v1.44.332
 	github.com/bluele/gcache v0.0.2
 	github.com/cenkalti/backoff/v4 v4.2.1
-	github.com/cerbos/cerbos/client v0.0.0-unpublished
+	github.com/cerbos/cerbos/client v0.0.0-20230829143844-89f431738445
 	github.com/cerbos/cloud-api v0.1.6
 	github.com/cespare/xxhash v1.1.0
 	github.com/cespare/xxhash/v2 v2.2.0
