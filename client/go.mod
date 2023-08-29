@@ -2,10 +2,10 @@ module github.com/cerbos/cerbos/client
 
 go 1.18
 
-replace github.com/cerbos/cerbos => /home/cell/work/cerbos
+replace github.com/cerbos/cerbos => ../
 
 require (
-	github.com/cerbos/cerbos v0.0.0-00010101000000-000000000000
+	github.com/cerbos/cerbos v0.29.0
 	github.com/google/go-cmp v0.5.9
 	github.com/google/uuid v1.3.1
 	github.com/grpc-ecosystem/go-grpc-middleware v1.4.0
