@@ -2,8 +2,6 @@ module github.com/cerbos/cerbos/client
 
 go 1.18
 
-replace github.com/cerbos/cerbos => ../
-
 require (
 	github.com/cerbos/cerbos v0.29.0
 	github.com/google/go-cmp v0.5.9
